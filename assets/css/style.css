@@ -801,4 +801,9 @@ footer {
 .gallery_product {
   margin-bottom: 30px; }
 
+.activelink, .btn:hover {
+    background-color: #ee6210;
+    color: black;
+    padding:8px;
+}
 /*# sourceMappingURL=style.css.map */
